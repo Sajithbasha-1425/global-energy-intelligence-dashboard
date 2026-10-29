@@ -1,0 +1,7 @@
+file,rows_after_cleaning,duplicate_country_year_groups_after_cleaning,negative_values_after_cleaning,blank_country_values,blank_year_values,year_min,year_max,unit_column
+oil-consumption.csv,5329,0,0,0,0,1965,2019,consumption_kbbl_day
+oil-production.csv,3444,0,0,0,0,1965,2019,production_kbbl_day
+gas-consumption.csv,5335,0,0,0,0,1965,2019,consumption_bcm
+gas-production.csv,3210,0,0,0,0,1970,2019,production_bcm
+coal-consumption.csv,5335,0,0,0,0,1965,2019,consumption_ej
+coal-production.csv,1908,0,0,0,0,1981,2019,production_mt

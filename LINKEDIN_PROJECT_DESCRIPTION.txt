@@ -1,0 +1,18 @@
+PROJECT TITLE
+Global Energy Intelligence Dashboard | Interactive Historical Energy Analytics
+
+PROJECT DESCRIPTION
+Built an interactive dashboard to explore historical oil, natural-gas and coal production and consumption records. The project combines data validation, responsive UI design, interactive charts, country/year filtering, automated descriptive insights, searchable records and CSV export.
+
+Highlights:
+• Explored long-term trends across six energy datasets.
+• Added dynamic KPIs, country rankings and annual record-coverage analysis.
+• Built filter-responsive insight cards and downloadable filtered data.
+• Documented methodology, units, data-quality checks and limitations.
+
+Tools: HTML, CSS, JavaScript, Chart.js, Three.js, CSV data, GitHub Pages.
+
+Note: This is a historical-data portfolio project, not a live market feed. Annual averages depend on available country records; dataset units vary by energy type.
+
+LIVE DASHBOARD: [paste your deployed GitHub Pages URL]
+SOURCE CODE: [paste your GitHub repository URL]
