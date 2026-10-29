@@ -12,7 +12,3 @@ Highlights:
 
 Tools: HTML, CSS, JavaScript, Chart.js, Three.js, CSV data, GitHub Pages.
 
-Note: This is a historical-data portfolio project, not a live market feed. Annual averages depend on available country records; dataset units vary by energy type.
-
-LIVE DASHBOARD: [paste your deployed GitHub Pages URL]
-SOURCE CODE: [paste your GitHub repository URL]
